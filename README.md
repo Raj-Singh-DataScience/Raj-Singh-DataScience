@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm <a href="https://schmelto.github.io/Portfolio/">Raj Singh</a>!</h1>
+<h1 align="center">Hi there👋, I'm <a href="">Raj Singh</a>!</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 <p align="center">d9ffaca46d5990ec39501bcdf22ee7a1</p>
 

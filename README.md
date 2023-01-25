@@ -1,18 +1,12 @@
 <h1 align="center">Hi there👋, I'm <a href="">Raj Singh</a>!</h1>
 <h3 align="center">Data Science Enthusiast</h3>
-<p align="center">d9ffaca46d5990ec39501bcdf22ee7a1</p>
+<p align="center">I spend my time wrangling data, discovering patterns, analyzing datasets, and build models to make real-world decisions.</p>
 
 ```js
-const name = 'Raj';
-
-Developer dev = new Developer(name);
-
-while(dev.isCoding())
-{
-  dev.listenToMusic();
-  dev.openStackOverFlow();
-  dev.drinkWater();
-}
+figure = px.line(data, x="date", 
+                 y="meantemp", 
+                 title='Mean Temperature in Delhi Over the Years')
+figure.show()
 ```
 
 <p align="center">Check out my <a href="">portfolio website</a> to get to know my tech stack and some other cool stuff.</p>
